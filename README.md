@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	 Ecoleta <img src="https://img.icons8.com/color/48/000000/recycle-bin.png" width="40px"/>
+	 Ecoleta <img src="https://img.icons8.com/color/48/000000/recycle-bin.png" width="30px"/>
 </h1>
 
 <p align="center">
